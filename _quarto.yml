@@ -10,6 +10,11 @@ website:
         text: Home
       - href: partic.qmd
         text: Participants
+      - href: dynamics.qmd
+        text: Program
+      - href: visa.qmd
+        text: Getting to Kenya
+        
 
 format:
   html:

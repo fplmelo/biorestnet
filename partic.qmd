@@ -1,5 +1,35 @@
 ---
 title: "Know each other"
 ---
+:::: {.columns}
 
-# 
+::: {.column width="40%"}
+## Felipe Melo
+![](https://ecoaplic.org/about/sidebar/avatar.jpg){width=100}
+
+Ecology and Conservation must be political to address the real-world problems. We are interested in all kinds of human interventions on natural systems and how biotas respond to them. 
+
+## Antonio Uzal
+![](https://www.ntu.ac.uk/__data/assets/image/0022/1741450/Antonio-Uzal-3.jpeg){width=100}
+
+Dr Uzal's current research areas of interest include Impacts of human disturbance on wildlife, conservation and management of game species, carnivores and endangered species, spatial ecology landscape ecology, remote sensing, relationship plant-herbivores, animal behaviour, population dynamics, telemetry, remote sensing, ecosystem services.
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="40%"}
+## Antonio Uzal
+![](https://www.ntu.ac.uk/__data/assets/image/0022/1741450/Antonio-Uzal-3.jpeg){width=100}
+
+Dr Uzal's current research areas of interest include Impacts of human disturbance on wildlife, conservation and management of game species, carnivores and endangered species, spatial ecology landscape ecology, remote sensing, relationship plant-herbivores, animal behaviour, population dynamics, telemetry, remote sensing, ecosystem services.
+
+## Felipe Melo
+![](https://ecoaplic.org/about/sidebar/avatar.jpg){width=100}
+
+Ecology and Conservation must be political to address the real-world problems. We are interested in all kinds of human interventions on natural systems and how biotas respond to them. 
+
+
+:::
+::::
