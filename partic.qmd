@@ -1,5 +1,5 @@
 ---
-title: "Know each other"
+title: "Let's know each other"
 ---
 :::: {.columns}
 
@@ -7,12 +7,32 @@ title: "Know each other"
 ## Felipe Melo
 ![](https://ecoaplic.org/about/sidebar/avatar.jpg){width=100}
 
-Ecology and Conservation must be political to address the real-world problems. We are interested in all kinds of human interventions on natural systems and how biotas respond to them. 
+Felipe Melo’s research is guided by the following question: How to manage and restore social-ecological landscapes? To answer this question, he drew on both the theoretical and analytical tools of natural sciences and on the social-ecological systems (SES) framework. More info [HERE](www.ecoaplic.org)
 
-## Antonio Uzal
-![](https://www.ntu.ac.uk/__data/assets/image/0022/1741450/Antonio-Uzal-3.jpeg){width=100}
+## Raihana Ferdous
 
-Dr Uzal's current research areas of interest include Impacts of human disturbance on wildlife, conservation and management of game species, carnivores and endangered species, spatial ecology landscape ecology, remote sensing, relationship plant-herbivores, animal behaviour, population dynamics, telemetry, remote sensing, ecosystem services.
+![](https://www.ntu.ac.uk/__data/assets/image/0031/1900885/Raihana-Ferdous.jpg){width=100}
+
+Raihana’s research is concerned with the development of sustainable energy and technology and in their shaping of the human and more than human worlds. Raihana has an extensive background in both Human Geography and Social Anthropology and has worked with various inter and multi-disciplinary teams. More info [HERE](https://www.ntu.ac.uk/staff-profiles/animal-rural-environmental-sciences/raihana-ferdous)
+
+## Purity Gacheri
+![](https://www.spas.mku.ac.ke/wp-content/uploads/2022/10/Dr.-Purity-Gacheri-Limbua-300x200.jpeg){width=100}
+
+Purity Gacheri Limbua is the current Dean of the School of Pure and Applied Sciences at Mount Kenya University. She was the Head of Department of Biological Sciences (Now renamed as Natural Sciences), a position which she held for 8 years (2013 – 2021). She is a Lecturer and a researcher who has successfully supervised many postgraduate students. More info [HERE](https://www.spas.mku.ac.ke/dr-purity-gacheri-limbua/)
+
+## Víctor Arroyo Rodríguez
+
+![](https://www.iies.unam.mx/wp-content/uploads/2023/12/Arroyo-150x150.png){width=100}
+
+Víctor's research focuses on understanding the factors that determine the maintenance of biodiversity in fragmented tropical landscapes, and is aimed at generating knowledge and theories that serve as a basis for designing species conservation strategies in these landscapes. To do this, he carries out studies at various spatial scales in different Neotropical landscapes. More info [HERE](https://www.iies.unam.mx/investigacion/perfiles-investigadores/victor-arroyo-rodriguez/)
+
+## Madelon Lohbeck
+
+![](https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=6839){width=100}
+
+Madelon is an Assistant Professor at the Wegeningen University and her research interest are functional ecology and land restoration. More info [HERE](https://research.wur.nl/en/persons/madelon-lohbeck)
+
+
 :::
 
 ::: {.column width="10%"}
@@ -20,16 +40,32 @@ Dr Uzal's current research areas of interest include Impacts of human disturbanc
 :::
 
 ::: {.column width="40%"}
+
 ## Antonio Uzal
 ![](https://www.ntu.ac.uk/__data/assets/image/0022/1741450/Antonio-Uzal-3.jpeg){width=100}
 
-Dr Uzal's current research areas of interest include Impacts of human disturbance on wildlife, conservation and management of game species, carnivores and endangered species, spatial ecology landscape ecology, remote sensing, relationship plant-herbivores, animal behaviour, population dynamics, telemetry, remote sensing, ecosystem services.
+Anonio Uzal's current research areas of interest include Impacts of human disturbance on wildlife, conservation and management of game species, carnivores and endangered species, spatial ecology landscape ecology, remote sensing, relationship plant-herbivores, animal behavior, population dynamics, telemetry, remote sensing, ecosystem services.
+More info [HERE](https://www.ntu.ac.uk/staff-profiles/animal-rural-environmental-sciences/antonio-uzal)
 
-## Felipe Melo
-![](https://ecoaplic.org/about/sidebar/avatar.jpg){width=100}
+## Peter Njenga
+![](https://www.jkuat.ac.ke/institutes/tvet/wp-content/uploads/2022/09/prof.-Peter-Njenga-e1662975670700-150x150.png){width=100}
 
-Ecology and Conservation must be political to address the real-world problems. We are interested in all kinds of human interventions on natural systems and how biotas respond to them. 
+Prof. Njenga is a professor at Jomo Kenyatta University of Agriculture and Technology and experiences span academia, research, project management, policy development and community outreach. He has supervised several postgraduate students in his area of expertise. He is a trained Biology practicals Examiner with Kenya National Examinations Council (KNEC). He has authored several books and publications in diverse areas of applied Biology.
+More info [HERE](https://cufinder.io/professor/peter-k-njenga-NLvwVysAAAAJ)
 
+## David Kinanta
 
+![](https://maraconservancies.org/wp-content/uploads/2023/08/David-Kinanta.jpg){width=100}
+
+Senior Programmes Officer, Natural Resource Management of the Maasai Mara Wildlife Conservancy. More info [HERE](https://maraconservancies.org/)
+
+## Lukelysia Mwagi
+
+![](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=pGHQxhMAAAAJ&citpid=2){width=100}
+
+She is a quality-oriented professional with over 10 years’ experience and expertise
+in sample handling and collection, data analysis, procurement, report writing, and
+management. Self-motivated individual with proven ability to work well both
+independently and within a team. More info [HERE](https://www.cifor-icraf.org/research/theme/soil-and-land-health/living-soils-laboratory/)
 :::
 ::::
