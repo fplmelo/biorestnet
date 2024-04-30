@@ -12,6 +12,8 @@ website:
         text: Participants
       - href: dynamics.qmd
         text: Program
+      - href: refs.qmd
+        text: Suggested readings
       - href: kenya_visa.qmd
         text: Getting to Kenya
         
