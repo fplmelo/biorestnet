@@ -16,6 +16,8 @@ website:
         text: Suggested readings
       - href: kenya_visa.qmd
         text: Getting to Kenya
+      - href: weather.qmd
+        text: Weather forecast
         
 
 format:
