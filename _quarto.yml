@@ -6,17 +6,17 @@ website:
   title: "Workshop Biocultural Restoration"
   navbar:
     left:
-      - href: index.qmd
+      - href: index.html
         text: Home
-      - href: partic.qmd
+      - href: partic.html
         text: Participants
-      - href: dynamics.qmd
+      - href: dynamics.html
         text: Program
-      - href: refs.qmd
+      - href: refs.html
         text: Suggested readings
-      - href: kenya_visa.qmd
+      - href: kenya_visa.html
         text: Getting to Kenya
-      - href: weather.qmd
+      - href: weather.html
         text: Weather forecast
         
 
