@@ -1,23 +1,75 @@
 ---
-title: "Dynamics"
-author: "Felipe Melo"
+title: "Dynamics of the workshop"
+author: ""
 format: revealjs
 ---
 
 ## Objectives of the workshop
 
 - 1) Create a network on biocultural restoration
-- 2) Brainstorm on a suitable experimental design
+- 2) Brainstorm on a suitable experimental design for biocultural approaches
 - 3) Set the basic principles for the [**BioRestNet**]{style="color:green;"}
-- 4) Have a draft of a white paper
+- 4) Draft of a white paper on biocultural restoration
+
+## Basic dynamics
+
+- Presentations
+  - 2 per period (morning and afternoon)
+- Breakout groups
+  - three groups of 6
+  - Facilitator and secretary roles
+- Sharing thoughts
+  - One presenter per group
+  
+**All oriented by a theme and questions**
 
 ## Day 1 - Biocultural Approaches
 
+Today's question: <br>
+[**How to make sense of indigenous and local knowledge when assessing landscapes?**]{style=color:red}
+
+- How to incorporate ILK of the landscape and biodiversity?
+- How to conciliate ILK with "hard-science"?
+- What are the scientific frontiers of including ILK into restoration?
+
 ## Day 2 - Productive Restoration
+
+Today's question: <br>
+[**How to design and promote productive restoration based on ILK**]{style=color:red}
+
+- What is the role of Agroforestry on restoration?
+- How to pursue sustainable cattle raising?
+
+
 
 ## Day 3 - Landscape Perspectives
 
+Today's question: <br>
+[**How to design landscape-scale assessments of biocultural restoration**]{style=color:red}
+
+- What are the tools and lessons from landscape ecology for biocutlrual restoration?
+- How to describe and analyse landscapes using both ecology and social sciences?
+- Can we have basic recommendations for landscape-scale studies on biocultural restoration?
+
 ## Day 4 - Visit to the Maasai Mara
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/99/Maasai_tribe.jpg)
+
+
+## Day 4 - Visit to the Maasai Mara
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d255297.17142362177!2d35.15479910850396!3d-1.1474080543682974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e2!4m5!1s0x182c593c692b6fff%3A0xcf1f6ec7c5da5de1!2sThe%20Maa%20Guest%20House%2C%20Near%20Talek%2C%20Qu%C3%AAnia!3m2!1d-1.3614416!2d35.2363515!4m5!1s0x182c6198f8bcf471%3A0x91a8ebac99f48f7a!2zQWl0b25nLCBRdcOqbmlh!3m2!1d-1.1930531!2d35.2510726!4m5!1s0x182c79c1bfab6a41%3A0xc557905f1baf668e!2sEnarau%20ConservancyTrust%2C%20Lemek%2C%20Qu%C3%AAnia!3m2!1d-1.0083052!2d35.3345589!5e0!3m2!1spt-BR!2suk!4v1716919431301!5m2!1spt-BR!2suk" width="1000" height="650" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## During the field trip
+ - We will visit communities and see a gradient of vegetation and anthropogenic pressures
+ - There will be chance to buy handicrafts
+ - Lunch and refreshments will be provided
+ 
+## Asante Sana
+
+
 
 
 
