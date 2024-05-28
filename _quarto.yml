@@ -12,6 +12,8 @@ website:
         text: Participants
       - href: dynamics.html
         text: Program
+      - href: presentation.html
+        text: Guide Slides
       - href: refs.html
         text: Suggested readings
       - href: kenya_visa.html

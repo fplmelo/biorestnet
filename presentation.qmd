@@ -1,0 +1,23 @@
+---
+title: "Dynamics"
+author: "Felipe Melo"
+format: revealjs
+---
+
+## Objectives of the workshop
+
+- 1) Create a network on biocultural restoration
+- 2) Brainstorm on a suitable experimental design
+- 3) Set the basic principles for the [**BioRestNet**]{style="color:green;"}
+- 4) Have a draft of a white paper
+
+## Day 1 - Biocultural Approaches
+
+## Day 2 - Productive Restoration
+
+## Day 3 - Landscape Perspectives
+
+## Day 4 - Visit to the Maasai Mara
+
+
+
