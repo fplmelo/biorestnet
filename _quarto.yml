@@ -12,8 +12,12 @@ website:
         text: Participants
       - href: dynamics.html
         text: Program
-      - href: presentation.html
-        text: Guide Slides
+      - text: Presentation
+        menu: 
+        - href: presentation.html
+          text: Guide Slides
+        - href: https://ecoaplic.org/slides_aulas/apresentacoes/biorestnet_workshop_kenya#/title-slide.html
+          text: BioRestNet
       - href: refs.html
         text: Suggested readings
       - href: drive.html
