@@ -1,0 +1,13 @@
+---
+title: "Shared Folder"
+---
+
+Here is the folder where we can share:
+
+- [Photos](https://drive.google.com/drive/u/0/folders/1pARxMTwG-oFBX9RlIdTFQW5QXNPrr1Fw)
+- [Presentations](https://drive.google.com/drive/u/0/folders/1DY2b4Dbc1EA_eJt8YjdIq7koDUzPA6lf)
+- [Literature](https://drive.google.com/drive/u/0/folders/1_xQEjUkRAlPQDoUcIQM44oM0eLJBIBm6)
+
+There is also a folder for the [shared document](https://drive.google.com/drive/u/0/folders/1AV8170wIL2Xf1bLaTjzHu2e6je7DUiJj) of the perspective paper
+
+![](figs/vic.png)

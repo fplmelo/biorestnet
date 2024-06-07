@@ -16,6 +16,8 @@ website:
         text: Guide Slides
       - href: refs.html
         text: Suggested readings
+      - href: drive.html
+        text: Shared Folder
       - href: kenya_visa.html
         text: Getting to Kenya
       - href: weather.html
