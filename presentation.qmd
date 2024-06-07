@@ -23,7 +23,7 @@ format: revealjs
   
 **All oriented by a theme and questions**
 
-## Day 1 - Biocultural Approaches
+## Day 1 - Biocultural Approaches - morning
 
 Today's question: <br>
 [**How to make sense of indigenous and local knowledge when assessing landscapes?**]{style=color:red}
@@ -32,13 +32,22 @@ Today's question: <br>
 - How to conciliate ILK with "hard-science"?
 - What are the scientific frontiers of including ILK into restoration?
 
+## Day 1 - Biocultural Approaches - afternoon
+
+Afternoon's question: <br>
+[**How would you justify the adoption of biocultural apporach as a novel perspective to restoration?**]{.center style=color:red}
+
+
+
+
+
 ## Day 2 - Productive Restoration
 
 Today's question: <br>
 [**How to design and promote productive restoration based on ILK**]{style=color:red}
 
 - What is the role of Agroforestry on restoration?
-- How to pursue sustainable cattle raising?
+- How to pursue sustainable grazing system with restoration?
 
 
 
