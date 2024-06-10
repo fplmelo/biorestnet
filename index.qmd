@@ -2,8 +2,10 @@
 title: "About this workshop"
 ---
 
-![](https://www.worldhistory.org/uploads/images/11491.jpg?v=1599183903)
+![](figs/foto.jpeg)
 
+
+## We made a great workshop!
 
 **Background**: The study of how working (human-modified) landscapes evolve is crucial to understand both human welfare and conservation challenges out of protected areas. Business-as-usual, area-based conservation approaches have been criticized for limited results to deliver environmental justice and protection for biodiversity. Rural population, mostly composed of indigenous people and local communities (IPLC), safeguards most of the remaining natural areas under different kinds of management. Understanding how biodiversity and ecosystem services contribute to human wellbeing in these landscapes is amongst the most important conservation/restoration contributions for the sustainable development goals. The creation of networks of collaboration and knowledge sharing able to integrate both scientific and traditional ecological knowledge is an effective way to scale up the inclusive models of restoration and conservation that are, by definition, co-constructed by diverse stakeholders and actors drawing upon varying perspectives and specialities.
 

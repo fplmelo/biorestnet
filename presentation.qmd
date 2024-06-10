@@ -60,6 +60,29 @@ Today's question: <br>
 - How to describe and analyse landscapes using both ecology and social sciences?
 - Can we have basic recommendations for landscape-scale studies on biocultural restoration?
 
+## Synthesis table - 1{.smaller}
+
+| Models of Restoration| What to restore? | Why and whom for? | Who speaks for nature? | Whose knowledge?
+|---------|:-----|------|:------:|:------:|
+| Restoration for Nature      |  biodiversity   |  Pristineness   | Governments     |  Nat Science mafia |
+| Restoration despite people     | Ecosystem Health  |  REmediation  |  Govenrment   |   Nat Science Mafia  |
+| Restoration for people needs        |   Ecosystem Services  |   kivelihoods   |  Phylantropy & Think tanks     |  Soc Sciences  |
+| Restoration and people        |   Well-being and biodiv  |   inter-dependence   |   Comm + Scientists + Think Tanks   |  Interknowledge  |
+| Biocultral Restoration        |   Human-nature Integration  |   inter-connection   |   All parts of comm + all above   |  Transknowledge   |
+
+##
+
+## Synthesis table - 2 {.smaller}
+
+| Models of Restoration| What to restore? | Why and whom for? | Who speaks for nature? | Whose knowledge?
+|---------|:-----|------|:------:|:------:|
+| Restoration for Nature      |   what was before  |  stop degrad / nature   |      |   |
+| Restoration despite people     | what was before   |  How it should be  |  Scientists + Statutory bodies   |   Nat Science Mafia  |
+| Restoration for people needs        |   Functionality  |  Peop Benefit / people    |  Scientists + Statutory bodies      |  Soc Sciences  |
+| Restoration and people        |   Functionality  |   Ours and Naut benefits / humanity + nature   |  Scientists + Statutory bodies    |  Interknowledge  |
+| Biocultral Restoration        |   Interconnection + bio and cultural balance + resilience + LK  |   Build Resilience + LC Voices + Aknow Gap / Nat + peop   |   All parts of comm + all above   |  Transknowledge   |
+
+
 ## Day 4 - Visit to the Maasai Mara
 
 
